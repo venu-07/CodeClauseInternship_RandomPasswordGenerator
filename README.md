@@ -1,1 +1,1 @@
-# RandomPasswordGenerator
+## This Python script generates strong passwords of a specified length. It takes the desired password length as a command-line argument and ensures that the generated password includes at least one uppercase letter, one lowercase letter, one digit, and one special character. It then fills the remaining length with a random mix of characters from the predefined character sets (uppercase, lowercase, digits, and special characters) and shuffles them for added security. The final password is printed.
